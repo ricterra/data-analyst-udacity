@@ -6,7 +6,7 @@ Source: https://www.udacity.com/course/data-analyst-nanodegree--nd002
 
 ### Project 1
 
-Brief description: Estabilish SQL queries to extract climate data from DB (temperature vs time), read data in jupyter-notebook and create simple visualizations. It's also recommended to use average mean to smooth the dataset for a better plot visualization. At the end, a report must be done with the final remarks.
+<b>Brief description:</b> Estabilish SQL queries to extract climate data from DB (temperature vs time), read data in jupyter-notebook and create simple visualizations. It's also recommended to use average mean to smooth the dataset for a better plot visualization. At the end, a report must be done with the final remarks.
 
 ### Project 2
 
